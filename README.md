@@ -1,2 +1,0 @@
-# proyecto.vp
-proyecto
